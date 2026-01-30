@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+beautifulsoup4
+requests
+faiss-cpu
+sentence-transformers
+langchain-openai
+
+
